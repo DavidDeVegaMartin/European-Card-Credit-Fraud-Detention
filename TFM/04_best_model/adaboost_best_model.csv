@@ -1,0 +1,2 @@
+Model,Description,Parameter,ROC-AUC,Accuracy,Precision,Recall,F1 Score,F2 Score,Confusion Matrix
+adaboost,OR smote,n_estimators=10,0.9335679544749808,0.9995611109160492,0.8762886597938144,0.8673469387755102,0.8717948717948717,0.869120654396728,"[[56852    12],[   13    85]]"

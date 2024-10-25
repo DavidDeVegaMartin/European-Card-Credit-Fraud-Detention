@@ -1,0 +1,2 @@
+Model,Description,Parameter,ROC-AUC,Accuracy,Precision,Recall,F1 Score,F2 Score,Confusion Matrix
+decision_tree,OR origin,max_depth=5,0.8927867995819599,0.9994908886626171,0.9058823529411764,0.7857142857142857,0.8415300546448088,0.8071278825995806,"[[56856     8],  [   21    77]]"

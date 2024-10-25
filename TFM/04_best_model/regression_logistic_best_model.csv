@@ -1,0 +1,2 @@
+Model,Description,Parameter,ROC-AUC,Accuracy,Precision,Recall,F1 Score,F2 Score,Confusion Matrix
+regression_logistic,PT origin,C=0.1,0.836611593145981,0.9991924440855308,0.825,0.673469387755102,0.7415730337078652,0.6991525423728814,"[[56850    14],  [   32    66]]"

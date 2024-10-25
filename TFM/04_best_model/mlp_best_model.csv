@@ -1,0 +1,2 @@
+Model,Description,Parameter,ROC-AUC,Accuracy,Precision,Recall,F1 Score,F2 Score,Confusion Matrix
+mlp,OR origin,"hidden_layer_sizes=(150,)",0.9283428129270842,0.9992977774656788,0.7636363636363637,0.8571428571428571,0.8076923076923076,0.8366533864541832,"[[56838    26],[   14    84]]"

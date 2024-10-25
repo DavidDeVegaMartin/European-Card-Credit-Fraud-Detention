@@ -1,0 +1,2 @@
+Model,Description,Parameter,ROC-AUC,Accuracy,Precision,Recall,F1 Score,F2 Score,Confusion Matrix
+xgboost,OR smote,learning_rate=0.5,0.94362255664787,0.9992977774656788,0.75,0.8877551020408163,0.8130841121495328,0.8562992125984252,"[[56835    29],  [   11    87]]"
