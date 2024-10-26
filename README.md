@@ -1,17 +1,17 @@
 # **MACHINE LEARNING APPLIED TO CREDIT CARD FRAUD DETECTION.**
 **The current repository is my Master’s Thesis (TFM) for the Data Science program at the Open University of Catalonia (UOC).**
 
-![Title](\Images\European-Card-Credit-Fraud-Detention\00_titulo.png)
-![Presentation](C:\Git_repo\European-Card-Credit-Fraud-Detention\01_Presentacion.png)
-![Challenges](C:\Git_repo\European-Card-Credit-Fraud-Detention\02_Challenges.png)
-![Algorithms](C:\Git_repo\European-Card-Credit-Fraud-Detention\03_Algorithms.png)
-![Methodology](C:\Git_repo\European-Card-Credit-Fraud-Detention\04_Metodologia.png)
+![Title](Images/00_titulo.png)
+![Presentation](Images/01_Presentacion.png)
+![Challenges](Images/02_Challenges.png)
+![Algorithms](Images/03_Algorithms.png)
+![Methodology](Images/04_Metodologia.png)
 
 Example of algorithm chart for all distribution and best model.
 
-![Algorithms](C:\Git_repo\European-Card-Credit-Fraud-Detention\05_algorithms.png)
-![Final_Ranking_I](C:\Git_repo\European-Card-Credit-Fraud-Detention\06_Final_Ranking.png)
-![Final_Ranking_II](C:\Git_repo\European-Card-Credit-Fraud-Detention\07_Final_Ranking.png)
+![Algorithms](Images/05_algorithms.png)
+![Final_Ranking_I](Images/06_Final_Ranking.png)
+![Final_Ranking_II](Images/07_Final_Ranking.png)
 
 
 ### Project includes:
