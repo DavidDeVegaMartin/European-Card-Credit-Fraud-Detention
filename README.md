@@ -1,7 +1,7 @@
 # **MACHINE LEARNING APPLIED TO CREDIT CARD FRAUD DETECTION.**
 **The current repository is my Master’s Thesis (TFM) for the Data Science program at the Open University of Catalonia (UOC).**
 
-![Title](C:\Git_repo\Images\European-Card-Credit-Fraud-Detention\00_titulo.png)
+![Title](\Images\European-Card-Credit-Fraud-Detention\00_titulo.png)
 ![Presentation](C:\Git_repo\European-Card-Credit-Fraud-Detention\01_Presentacion.png)
 ![Challenges](C:\Git_repo\European-Card-Credit-Fraud-Detention\02_Challenges.png)
 ![Algorithms](C:\Git_repo\European-Card-Credit-Fraud-Detention\03_Algorithms.png)
